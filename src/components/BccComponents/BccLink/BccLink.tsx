@@ -6,7 +6,7 @@ const BccLink = withStyles({
     fontSize: "inherit",
     color: "#27AE60",
     cursor: "pointer",
-    fontWeight: "normal",
+    fontWeight: 400,
     textTransform: "none",
     letterSpacing: 0,
   },

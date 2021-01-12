@@ -1,6 +1,6 @@
 {
-  "homepage": "https://abkeyev.github.io/bcc-redesign",
-  "name": "bcc-redesign",
+  "homepage": "https://www.bcc.kz/cards/payroll-card",
+  "name": "payroll-card",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -18,15 +18,18 @@
     "@types/react-maskedinput": "^4.0.4",
     "@types/react-router": "^5.1.8",
     "@types/react-router-dom": "^5.1.5",
+    "@types/react-scroll": "^1.8.0",
     "@types/react-select": "^3.0.14",
     "animate.css": "^4.1.0",
     "prettier": "^2.0.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-maskedinput": "^4.0.1",
+    "react-number-format": "^4.4.1",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
+    "react-scroll": "^1.8.1",
     "react-select": "^3.1.0",
     "typescript": "~3.7.2"
   },
