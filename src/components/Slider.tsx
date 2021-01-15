@@ -271,7 +271,7 @@ const Slider = (props: SliderProps) => {
           <div>
             <Grid container className={classes.header}>
               <Grid item>
-                <img src={process.env.PUBLIC_URL + "/img/logo.svg"} />
+                <img src={process.env.PUBLIC_URL + "/new-logo.svg"} />
               </Grid>
             </Grid>
             {!Array.isArray(props.steps) && (
